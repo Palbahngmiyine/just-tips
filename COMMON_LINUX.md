@@ -7,6 +7,6 @@ move fonts to share directory
 
 `mv [target fonts] $HOME/.local/share/fonts/[target fonts]`
 
-### after execute command below
+### when fonts moved successfully..
 
 `fc-cache -v`
