@@ -8,17 +8,17 @@
 
 ```bash
 yarn install
-yarn docs:dev
+yarn dev
 ```
 
 ### 빌드
 
 ```bash
-yarn docs:build
+yarn build
 ```
 
 ### 미리보기
 
 ```bash
-yarn docs:preview
+yarn preview
 ```
