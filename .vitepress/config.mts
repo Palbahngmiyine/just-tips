@@ -12,7 +12,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: '리눅스 설정', link: '/contents/common-linux' }
+      { text: '설정 일람', link: '/contents/common-linux' }
     ],
 
     sidebar: [
