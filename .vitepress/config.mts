@@ -2,10 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'ko-KR',
   title: "Tips by @Palbahngmiyine",
   description: "Just tips.",
   cleanUrls: true,
   metaChunk: true,
+  outDir: 'dist',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
