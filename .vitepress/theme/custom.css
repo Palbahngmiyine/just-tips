@@ -1,0 +1,14 @@
+:root {
+  --vp-c-brand-1: #1a9dff;
+  --vp-c-brand-2: #1a9dff;
+  --vp-c-brand-3: #1a9dff;
+  --vp-c-brand-soft: rgba(26, 157, 255, 0.14);
+}
+
+/* Dark mode */
+.dark {
+  --vp-c-brand-1: #7fcfff;
+  --vp-c-brand-2: #7fcfff;
+  --vp-c-brand-3: #7fcfff;
+  --vp-c-brand-soft: rgba(127, 207, 255, 0.16);
+} 
