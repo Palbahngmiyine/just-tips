@@ -19,9 +19,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# VitePress
-.vitepress/cache/
-.vitepress/dist/
+# Wrangler (yarn preview)
+.wrangler/
 .temp/
 .cache/
 
