@@ -1,0 +1,22 @@
+{
+  "title": "Tips by @Palbahngmiyine",
+  "description": "Just tips.",
+  "lang": "ko-KR",
+  "baseUrl": "https://tips.subux.dev",
+  "githubUrl": "https://github.com/palbahngmiyine/just-tips",
+  "mode": "docs",
+  "trailingSlash": true,
+  "nav": [
+    { "text": "Home", "link": "/" },
+    { "text": "설정 일람", "link": "/contents/common-linux" }
+  ],
+  "sidebar": [
+    {
+      "text": "설정 팁",
+      "items": [
+        { "text": "리눅스 설정", "link": "/contents/common-linux" },
+        { "text": "Git 설정", "link": "/contents/git" }
+      ]
+    }
+  ]
+}
